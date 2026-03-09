@@ -1,14 +1,14 @@
 # spotify-data-analysis
 
 ## Overview
-This project analyzes a dataset of Spotify track to identify patterns in song popularity and audio features.
+This project analyzes a dataset of Spotify tracks to identify patterns in song popularity and audio features.
 
 ## Tools Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python\
+Pandas\
+NumPy\
+Matplotlib\
+Seaborn\
 Jupyter Notebook
 
 ## Analysis Performed
